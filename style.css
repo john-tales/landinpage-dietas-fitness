@@ -1,0 +1,97 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+ header{
+     padding:25px ;
+     width: 100vh;
+     align-items: center;
+     
+ }
+ 
+ header a {
+    text-decoration: none;
+ }
+
+ .buttonHome {
+    width: 56px;
+    height:5 ;
+    border-radius: 15px;
+    text-decoration: none;
+ }
+
+ .buttonCompre{
+    width: 105px;
+    height:5 ;
+    border-radius: 15px;
+    text-decoration: none;
+ }
+
+ .h1a{
+    position: relative;
+    font-size: 300%;
+    margin: 13% 15% 2% 15%;
+    color: aliceblue;
+}
+
+p {
+    position: relative;
+    padding: 0% 6% 3% 15%;
+    color: blanchedalmond;
+}
+
+.Wrapping{
+    display: flex;
+}
+.vsl{
+    margin-top: 3%;
+    width: 100%;
+    padding: 3%;
+    position: relative;
+    
+}
+
+ .boxVsl {
+    width: 100vh;
+    height: 70vw;
+    position: relative;
+    align-items: center;
+ }
+
+ .buybutton{
+    font-size: 100%;
+    color: aliceblue;
+    width: 174px;
+    height: 35px;
+    background-color: rgba(36, 187, 20, 0.83);
+    margin-left: 32%;
+    border-radius: 15px;
+ }
+
+ .boxbussines {
+    width: 100vh;
+    height: 70vw;
+    position: relative;
+    align-items: center;
+ }
+ .bussines {
+    width: 100%;
+    height: 70%;
+    padding: 3%;
+    margin-top: 6%;
+ }
+  
+ .fundo {
+    position: fixed;
+    top: 0;
+    z-index: -1;
+ }
+  
+ .paragrafo{
+    text-align: center;
+    font-size: 100%;
+    
+ }
