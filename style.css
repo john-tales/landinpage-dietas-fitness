@@ -56,7 +56,7 @@ p {
 
  .boxVsl {
     width: 100vh;
-    height: 70vw;
+    height: 60vw;
     position: relative;
     align-items: center;
  }
@@ -67,19 +67,19 @@ p {
     width: 174px;
     height: 35px;
     background-color: rgba(36, 187, 20, 0.83);
-    margin-left: 32%;
+    margin-left: 40%;
     border-radius: 15px;
  }
 
  .boxbussines {
     width: 100vh;
-    height: 70vw;
+    height: 60vw;
     position: relative;
     align-items: center;
  }
  .bussines {
     width: 100%;
-    height: 70%;
+    height: 72%;
     padding: 3%;
     margin-top: 6%;
  }
@@ -92,6 +92,15 @@ p {
   
  .paragrafo{
     text-align: center;
-    font-size: 100%;
-    
+    font-size: 150%;
+    padding: 10px;
+    color: black;
+ }
+
+ .descriçao{
+   background-color: aqua;
+   padding-left: 50px;
+   padding-right: 50px;
+   margin-left: 70px;
+   margin-right: 70px;
  }
